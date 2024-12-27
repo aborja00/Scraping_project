@@ -1,4 +1,5 @@
 This was done in "Practical Python for News Investigations" course at the CUNY Graduate School of Journalism. For this project I was trying to track all reported data breaches in the state of Washington and the extent of the breaches (i.e how many washington residents were affected). In order to find this information I scraped 27 pages of tabular data on the [OAG's data breach notification directory]((https://www.atg.wa.gov/data-breach-notifications?page=0)). In this repo you will find the output, which tracks data publically available (extracted december 19th) from 2015.  
+
 Results showed over 1000 data breaches, each to different extents, from exposures as simple as names to social security information. For each breach, there is a document describing the nature of the event.
 
 This scrape was not used for my graduate capstone; however, it was inspired by the constant influx of breach notifications that I and many others have received. On its own, this scrape doesn’t reveal much, but as part of a broader investigation into data breaches and the exposure of vital information affecting Americans, it highlights the alarming lack of security in databases.
